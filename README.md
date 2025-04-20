@@ -1,0 +1,1 @@
+Note: Scripts must be called from the project directory (e.g., sbatch jobs/train_layer.slurm)
